@@ -13,4 +13,4 @@ const e=e=>new Promise(n=>{setTimeout(()=>{n(e)},e)}),n=e=>console.log(`Fulfille
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./js/color-switcher.js"),require("./js/timer.js"),require("./js/promisification.js");
 },{"./sass/main.scss":"clu1","./js/color-switcher.js":"wgvZ","./js/timer.js":"yCUT","./js/promisification.js":"pTi8"}]},{},["Focm"], null)
-//# sourceMappingURL=/goit-js-hw-11/src.2ac93690.js.map
+//# sourceMappingURL=/goit-js-hw-11/src.9f7a2d77.js.map
